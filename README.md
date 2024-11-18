@@ -7,7 +7,7 @@ Review Boards (IRB) of The University of Texas at Dallas (UT Dallas) and Univers
 **Any inquiry of clinical data and subjects' information is upon reasonbale request, and shall contact the corresponding PI of this research: 
 Dr. Mehrdad Nourani, Professor, Dept. of ECE, UT Dallas, TX 75080, USA. Email: nourani@utdallas.edu.**
 
-Each branch is introduced as next. Details can be referred in each individual module:
+Four branches are listed below. Readers can refer to the **Introduction** of each branch.
 1. DTF Calculation: This branch implements the directed transfer function (DTF), a widely-applied directed connectivity metric in EEG data analysis.
 2. Connectivity Matrix: This branch is the function to visualize the connectivity matrix after DTF calculation.
 3. Graph Visualization: This branch is the function to visualize the DTF-based seizure network from the connectivity matrix.
