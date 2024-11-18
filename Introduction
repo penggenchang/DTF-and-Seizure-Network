@@ -6,6 +6,6 @@ DTF is a frequency-domain directed (effective) connectivity metric for brain sig
 **A. Korzeniewska, M. Mańczak, M. Kamiński, K.J. Blinowska, S. Kasicki, "Determination of information flow direction among brain structures by a modified directed transfer function (dDTF) method", J. Neurosci. Methods 125 (1–2) (2003)
 pp 195–207.**
 
-For illustration purpose, there are 20 signal channels (i.e., SEEG contact points), the model order K is chosen 10, and frequency band is $\beta$ [13,30]Hz.
+For illustration purpose, there are 20 signal channels (i.e., SEEG contact points), the model order K is chosen 10, and frequency band is $$\beta$$ [13,30]Hz.
 
 All SEEG-related information is anonymous and deidentified due to IRB regulation.
