@@ -13,6 +13,6 @@ Each branch is introduced as next. Details can be referred in each individual mo
 2. Graph Visualization: This branch includes different functions to visualize the DTF-based seizure network.
 3. Related Works: This branch lists the related references. Please carefully consider refer to those.
 
-Preliminary work of this research has been reported in the following paper:
+Preliminary work of this research has been reported in the following paper that the readers are welcome to refer to:
 
 G. Peng, M. Nourani, H. Dave, and J. Harvey, “Seeg-based epileptic seizure network modeling and analysis for pre-surgery evaluation,” Computers in Biology and Medicine, vol. 167, p. 107692, 2023. https://doi.org/10.1016/j.compbiomed.2023.107692
