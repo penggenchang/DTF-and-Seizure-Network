@@ -4,8 +4,9 @@ This repository summarizes the basic modules for directed transfer function (DTF
 **This research involved human subjects, and was under approval on experimental procedures and protocols, which were granted by the Institutional
 Review Boards (IRB) of The University of Texas at Dallas (UT Dallas) and University of Texas Southwestern Medical Center (UTSW), under No. IRB-21-198.**
 
-**Any inquiry of clinical data and subjects' information is upon reasonbale request, and shall contact the corresponding PI of this research: 
-Dr. Mehrdad Nourani, Professor, Dept. of ECE, UT Dallas, TX 75080, USA. Email: nourani@utdallas.edu.**
+**Any inquiry of clinical data and subjects' information is upon reasonbale request, and shall contact the corresponding PI of this research**:   
+
+**Dr. Mehrdad Nourani, Professor, Dept. of ECE, UT Dallas, TX 75080, USA. Email: nourani@utdallas.edu.**
 
 Each branch is introduced as next. Details can be referred in each individual module:
 1. DTF Calculation: This branch implements the directed transfer function (DTF), a widely-applied directed connectivity metric in EEG data analysis.
