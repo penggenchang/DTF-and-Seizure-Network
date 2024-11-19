@@ -1,18 +1,11 @@
-# DTF-and-Seizure-Network-Modeling
-This repository summarizes the basic modules for directed transfer function (DTF) and visualization functions for SEEG-based seizure network modeling and analysis. 
+This branch includes the Python implementation of directed transfer function (DTF). Major library includes: Numpy, Panda and Statsmodel. 
 
-**This research involved human subjects, and was under approval on experimental procedures and protocols, which were granted by the Institutional
-Review Boards (IRB) of The University of Texas at Dallas (UT Dallas) and University of Texas Southwestern Medical Center (UTSW), under No. IRB-21-198.**
+DTF is a frequency-domain directed (effective) connectivity metric for brain signal analysis and functional network modeling. It is based on multi variable autoregressive model (MVAR) over frequency band (e.g., 10-30Hz). introduction can be found in:
 
-**Any inquiry of clinical data and subjects' information is upon reasonbale request, and shall contact the corresponding PI of this research: 
-Dr. Mehrdad Nourani, Professor, Dept. of ECE, UT Dallas, TX 75080, USA. Email: nourani@utdallas.edu.**
+**M. Kamiński and K.J. Blinowska, "A new method of the description of the information flow in the brain structures", Biol. Cybern. 65, 1991, pp 203-210.**
+**A. Korzeniewska, M. Mańczak, M. Kamiński, K.J. Blinowska, S. Kasicki, "Determination of information flow direction among brain structures by a modified directed transfer function (dDTF) method", J. Neurosci. Methods 125 (1–2) (2003)
+pp 195–207.**
 
-Four branches are listed below. Readers can refer to the **Introduction** of each branch.
-1. DTF Calculation: This branch implements the directed transfer function (DTF), a widely-applied directed connectivity metric in EEG data analysis.
-2. Connectivity Matrix: This branch is the function to visualize the connectivity matrix after DTF calculation.
-3. Graph Visualization: This branch is the function to visualize the DTF-based seizure network from the connectivity matrix.
-4. Related Works: This branch lists the related references. Please carefully consider refer to those.
+For illustration purpose, there are 20 signal channels (i.e., SEEG contact points), the model order K is chosen 10, and frequency band is $$\beta$$ [13,30]Hz. Hence, the output is 20 by 20 DTF matrix over beta band.
 
-Preliminary work of this research has been reported in the following paper:
-
-G. Peng, M. Nourani, H. Dave, and J. Harvey, “Seeg-based epileptic seizure network modeling and analysis for pre-surgery evaluation,” Computers in Biology and Medicine, vol. 167, p. 107692, 2023. https://doi.org/10.1016/j.compbiomed.2023.107692
+All SEEG-related information is anonymous and deidentified due to IRB regulation.
