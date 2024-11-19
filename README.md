@@ -9,9 +9,8 @@ Dr. Mehrdad Nourani, Professor, Dept. of ECE, UT Dallas, TX 75080, USA. Email: n
 
 Each branch is introduced as next. Details can be referred in each individual module:
 1. DTF Calculation: This branch implements the directed transfer function (DTF), a widely-applied directed connectivity metric in EEG data analysis.
-2. Connectivity Matrix: This branch is the function to visualize the connectivity matrix after DTF calculation.
-3. Graph Visualization: This branch is the function to visualize the DTF-based seizure network from the connectivity matrix.
-4. Related Works: This branch lists the related references. Please carefully consider refer to those.
+2. Graph Visualization: This branch includes different functions to visualize the DTF-based seizure network.
+3. Related Works: This branch lists the related references. Please carefully consider refer to those.
 
 Preliminary work of this research has been reported in the following paper:
 
