@@ -1,17 +1,6 @@
-# DTF-and-Seizure-Network-Modeling
-This repository summarizes the basic modules for directed transfer function (DTF) and visualization functions for SEEG-based seizure network modeling and analysis. 
+**This branch lists the general functions for DTF-based seizure network visualization and statistical analysis. Three functions are applied for graph visualization:**
 
-**This research involved human subjects, and was under approval on experimental procedures and protocols, which were granted by the Institutional
-Review Boards (IRB) of The University of Texas at Dallas (UT Dallas) and University of Texas Southwestern Medical Center (UTSW), under No. IRB-21-198.**
+1. Matrix visualiztion, which shows the 20 by 20 DTF matrix;
+2. Graph visualization, which plots the network graph with nodes and edges;
+3. Density comparison, which plots the boxplots of network density.
 
-**Any inquiry of clinical data and subjects' information is upon reasonbale request, and shall contact the corresponding PI of this research: 
-Dr. Mehrdad Nourani, Professor, Dept. of ECE, UT Dallas, TX 75080, USA. Email: nourani@utdallas.edu.**
-
-Each branch is introduced as next. Details can be referred in each individual module:
-1. DTF Calculation: This branch implements the directed transfer function (DTF), a widely-applied directed connectivity metric in EEG data analysis.
-2. Graph Visualization: This branch lists the main functions to visualize the DTF-based seizure network.
-3. Related Works: This branch lists the related references. Please carefully consider refer to those.
-
-Preliminary work of this research has been reported in the following paper:
-
-G. Peng, M. Nourani, H. Dave, and J. Harvey, “Seeg-based epileptic seizure network modeling and analysis for pre-surgery evaluation,” Computers in Biology and Medicine, vol. 167, p. 107692, 2023. https://doi.org/10.1016/j.compbiomed.2023.107692
