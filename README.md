@@ -1,4 +1,4 @@
-This branch includes the Python implementation of directed transfer function (DTF). Major library includes: Numpy, Panda and Statsmodel. 
+**This branch includes the Python implementation of directed transfer function (DTF). Major library includes: Numpy, Panda and Statsmodel**. 
 
 DTF is a frequency-domain directed (effective) connectivity metric for brain signal analysis and functional network modeling. It is based on multi variable autoregressive model (MVAR) over frequency band (e.g., 10-30Hz). introduction can be found in:
 
