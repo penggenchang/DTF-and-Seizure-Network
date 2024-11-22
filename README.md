@@ -9,3 +9,5 @@
   S. Avvaru and K. Parhi, "Effective brain connectivity extraction by frequency-domain convergent cross-mapping (FDCCM) and its application in parkinson's disease classification", IEEE Transactions on Biomedical Engineering, Vol 70, No. 8, pp 2475-2486, 2023. https://doi.org/10.1109/TBME.2023.3250355
   
   G. Wang, Z. Sun, R. Tao, K. Li, B. Gang and X. Yan, “Epileptic seizure detection based on partial directed coherence analysis”, IEEE Journal of Biomedical and Healthcare Informatics, Vol 20, No. 3, pp 873-879, 2016. https://doi.org/10.1109/JBHI.2015.2424074
+
+**For comparison purpose**
