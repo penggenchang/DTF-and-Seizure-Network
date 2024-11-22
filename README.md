@@ -8,4 +8,4 @@ pp 195–207.**
 
 For illustration purpose, there are 20 signal channels (i.e., SEEG contact points), the model order K is chosen 10, and frequency band is $$\beta$$ [13,30]Hz. Hence, the output is 20 by 20 DTF matrix over beta band.
 
-All SEEG-related information is anonymous and deidentified due to IRB regulation.
+All SEEG-related information is anonymous and deidentified due to IRB regulation of UT Dallas and UTSW.
