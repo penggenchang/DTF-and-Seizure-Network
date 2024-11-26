@@ -10,3 +10,4 @@
   
   G. Wang, Z. Sun, R. Tao, K. Li, B. Gang and X. Yan, “Epileptic seizure detection based on partial directed coherence analysis”, IEEE Journal of Biomedical and Healthcare Informatics, Vol 20, No. 3, pp 873-879, 2016. https://doi.org/10.1109/JBHI.2015.2424074
 
+**Following the definitions in the above-mentioned references, we implemted our own Python code for FDCMM and PDC, and published in this repository.**
