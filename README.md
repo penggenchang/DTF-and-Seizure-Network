@@ -17,6 +17,6 @@ Three child branches are introduced as next. Details can be referred in each ind
 
 Preliminary work of this research has been reported in the following paper that the readers are suggested to refer to:
 - G. Peng, M. Nourani and J. Harvey, "SEEG-based bilateral seizure network analysis for neurostimulation treatment," IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2025. https://doi.org/10.1109/TNSRE.2025.3534121
-- G. Peng, M. Nourani and J. Harvey, "Type-specific seizure network analysis for RNS target selection in multifocal patients," 2024 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), 2024. https://openreview.net/pdf?id=prgSnJn2qb
+- G. Peng, M. Nourani and J. Harvey, "Type-specific seizure network analysis for RNS target selection in multifocal patients," 2024 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), 2024. https://doi.org/10.1109/BHI62660.2024.10913798
 - G. Peng, M. Nourani, H. Dave, and J. Harvey, “SEEG-based epileptic seizure network modeling and analysis for pre-surgery evaluation,” Computers in Biology and Medicine, vol. 167, p. 107692, 2023. https://doi.org/10.1016/j.compbiomed.2023.107692
 
