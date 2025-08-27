@@ -1,7 +1,7 @@
 # DTF-and-Seizure-Network-Modeling
 This repository summarizes the basic modules for directed transfer function (DTF) and visualization functions for SEEG-based seizure network modeling and analysis. 
 
-This work was supported in part by the UT Dallas Office of Research and Innovation through the SPARTK GRANT Program.
+This work was supported in part by the **UT Dallas Office of Research and Innovation** through the **SPARTK GRANT Program**.
 
 **This research involved human subjects, and was under approval on experimental procedures and protocols, which were granted by the Institutional
 Review Boards (IRB) of The University of Texas at Dallas (UT Dallas) and University of Texas Southwestern Medical Center (UTSW), under No. IRB-21-198.**
