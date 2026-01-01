@@ -14,6 +14,7 @@ Three child branches are introduced as next. Details can be referred in each ind
 1. [DTF Calculation](https://github.com/penggenchang/DTF-and-Seizure-Network/tree/DTF-Calculation): This branch implements the Python code for directed transfer function (DTF), a widely-applied directed connectivity metric in EEG data analysis.
 2. [Graph Visualization](https://github.com/penggenchang/DTF-and-Seizure-Network/tree/Graph-Visualization): This branch includes different functions to visualize the DTF-based seizure network during analysis.
 3. [Related Works](https://github.com/penggenchang/DTF-and-Seizure-Network/tree/Related-Works): This branch lists the other related references that we compare with.
+4. [Surrogate](https://github.com/penggenchang/DTF-and-Seizure-Network/tree/Surrogate): This branch implements the surrogate-based frequency selection in our latest submitted work.
 
 Preliminary work of this research has been reported in the following paper that the readers are suggested to refer to:
 - G. Peng, M. Nourani and J. Harvey, "SEEG-based bilateral seizure network analysis for neurostimulation treatment," IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2025. https://doi.org/10.1109/TNSRE.2025.3534121
